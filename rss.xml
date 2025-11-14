@@ -5,8 +5,16 @@
 
 <title>RSS Lenguajes de marcas</title>
 <link>https://dam-sebasgonz.github.io/Pagina-Final/</link>
-<description>Esto es un archivo de ejemplo RSS</description>
+<description>Esto es un ejemplo de RSS en Inioreader</description>
 <copyright>Hecho por Sebastian Gonzalez 1ºCFGS DAM<copyright>
+
+<item>
+
+<title>RSS. LDN</title>
+<link>https://dam-sebasgonz.github.io/Pagina-Final/</link>
+<description>Esto es un ejemplo de RSS en Inioreader</description>
+<pubDate>Fri, 14 Nov 2025</pubDate>
+</item>
 
 </channel>
 
